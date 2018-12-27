@@ -3,6 +3,7 @@
 This is the practice project site for the FreeCodeCamp coders of Helsinki. Through this site, participants will gain experience and even be able list it in their portfolio. If you're to gain experience coding or even learn how to do things the professional way, come join us. It doesn't matter if you've coded before or not. You're welcome either way. Tervetuloa!
 
 ## Contributing
+The source code for the site (which uses Angular) is in the 'website' folder.
 Yes, we'd love to have you in person, but Helsinki may be a long ways away for you. That doesn't mean you can't contribute and be recognized in the credits. Below are 7 steps to follow if you wish to contribute:
 
 1) Fork the project to your own account
