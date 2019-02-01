@@ -13,9 +13,10 @@ import { FooterComponent } from './footer/footer.component';
 import { ErrorComponent } from './error/error.component';
 
 const routes:Routes = [
-  {path: '', component: AppComponent }
-  ,{path:'**',redirectTo:'error'}
+  {path: '', component: HeroSectionComponent }
+  
   ,{path:'error',component:ErrorComponent}
+  ,{path:'**',redirectTo:'error'}
 ]
 
 @NgModule({
